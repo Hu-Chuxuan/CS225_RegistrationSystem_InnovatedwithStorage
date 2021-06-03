@@ -1,0 +1,102 @@
+This month the  people who were registered on week1 has ID: 
+1
+2
+10
+17
+21
+24
+39
+42
+66
+73
+93
+115
+147
+151
+164
+210
+This month the number of people who were registered on week1 is 16
+This month the  people who were registered on week2 has ID: 
+27
+32
+44
+51
+75
+92
+91
+This month the number of people who were registered on week2 is 1875684220
+This month the  people who were registered on week3 has ID: 
+4
+6
+11
+14
+30
+47
+This month the number of people who were registered on week3 is 6
+This month the  people who were registered on week4 has ID: 
+156
+This month the number of people who were registered on week4 is 6484673
+This month the  people who were treated on week1 has ID: 
+1
+2
+10
+21
+24
+164
+This month the number of people who were treated on week1 is 6
+This month the  people who were treated on week2 has ID: 
+17
+39
+44
+51
+66
+115
+This month the number of people who were treated on week2 is 13768422
+This month the  people who were treated on week3 has ID: 
+4
+6
+30
+42
+73
+93
+This month the number of people who were treated on week3 is 6
+This month the  people who were treated on week4 has ID: 
+11
+14
+92
+147
+156
+This month the number of people who were treated on week4 is 43
+This month the  people who registered on vaccination on has ID: 
+This month the number of people who registered on vaccination is 6484776
+This month the  people who were treated on surgery  has ID: 
+1
+2
+4
+6
+5
+11
+14
+15
+17
+16
+38
+51
+47
+This month the number of people who registered surgery is 13
+This month the  people who were treated on take pills  has ID: 
+21
+30
+33
+42
+44
+68
+92
+115
+104
+135
+156
+164
+197
+204
+This month the number of people who registered on pills is 14

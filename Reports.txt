@@ -1,0 +1,240 @@
+TREATED PATIENT
+his/her ID is1
+his/her profession is5
+his/her age is2
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is2
+his/her profession is4
+his/her age is1
+his/her risk is3
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is4
+his/her profession is2
+his/her age is0
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is6
+his/her profession is6
+his/her age is1
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is5
+his/her profession is0
+his/her age is3
+his/her risk is1
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is10
+his/her profession is0
+his/her age is2
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is11
+his/her profession is0
+his/her age is2
+his/her risk is3
+his/her waiting time is1
+TREATED PATIENT
+his/her ID is14
+his/her profession is1
+his/her age is0
+his/her risk is1
+his/her waiting time is1
+TREATED PATIENT
+his/her ID is15
+his/her profession is2
+his/her age is0
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is17
+his/her profession is0
+his/her age is0
+his/her risk is2
+his/her waiting time is1
+TREATED PATIENT
+his/her ID is16
+his/her profession is5
+his/her age is1
+his/her risk is0
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is21
+his/her profession is1
+his/her age is5
+his/her risk is1
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is24
+his/her profession is2
+his/her age is4
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is27
+his/her profession is1
+his/her age is3
+his/her risk is3
+his/her waiting time is4
+TREATED PATIENT
+his/her ID is30
+his/her profession is4
+his/her age is3
+his/her risk is3
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is33
+his/her profession is6
+his/her age is2
+his/her risk is0
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is38
+his/her profession is2
+his/her age is0
+his/her risk is1
+his/her waiting time is1
+TREATED PATIENT
+his/her ID is39
+his/her profession is5
+his/her age is4
+his/her risk is2
+his/her waiting time is1
+TREATED PATIENT
+his/her ID is32
+his/her profession is3
+his/her age is0
+his/her risk is2
+his/her waiting time is4
+TREATED PATIENT
+his/her ID is42
+his/her profession is1
+his/her age is2
+his/her risk is2
+his/her waiting time is2
+TREATED PATIENT
+his/her ID is44
+his/her profession is3
+his/her age is2
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is51
+his/her profession is5
+his/her age is2
+his/her risk is0
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is47
+his/her profession is6
+his/her age is2
+his/her risk is3
+his/her waiting time is3
+TREATED PATIENT
+his/her ID is66
+his/her profession is4
+his/her age is1
+his/her risk is1
+his/her waiting time is1
+TREATED PATIENT
+his/her ID is68
+his/her profession is5
+his/her age is0
+his/her risk is0
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is73
+his/her profession is2
+his/her age is0
+his/her risk is1
+his/her waiting time is2
+TREATED PATIENT
+his/her ID is75
+his/her profession is3
+his/her age is4
+his/her risk is0
+his/her waiting time is5
+TREATED PATIENT
+his/her ID is92
+his/her profession is4
+his/her age is5
+his/her risk is1
+his/her waiting time is2
+TREATED PATIENT
+his/her ID is91
+his/her profession is5
+his/her age is4
+his/her risk is3
+his/her waiting time is5
+TREATED PATIENT
+his/her ID is93
+his/her profession is0
+his/her age is2
+his/her risk is2
+his/her waiting time is2
+TREATED PATIENT
+his/her ID is115
+his/her profession is3
+his/her age is2
+his/her risk is2
+his/her waiting time is1
+TREATED PATIENT
+his/her ID is147
+his/her profession is1
+his/her age is4
+his/her risk is2
+his/her waiting time is3
+TREATED PATIENT
+his/her ID is104
+his/her profession is4
+his/her age is5
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is135
+his/her profession is1
+his/her age is2
+his/her risk is3
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is151
+his/her profession is0
+his/her age is3
+his/her risk is3
+his/her waiting time is4
+TREATED PATIENT
+his/her ID is156
+his/her profession is0
+his/her age is5
+his/her risk is2
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is164
+his/her profession is0
+his/her age is4
+his/her risk is1
+his/her waiting time is0
+TREATED PATIENT
+his/her ID is197
+his/her profession is4
+his/her age is5
+his/her risk is3
+his/her waiting time is1
+TREATED PATIENT
+his/her ID is210
+his/her profession is4
+his/her age is3
+his/her risk is3
+his/her waiting time is4
+TREATED PATIENT
+his/her ID is204
+his/her profession is2
+his/her age is2
+his/her risk is0
+his/her waiting time is0
